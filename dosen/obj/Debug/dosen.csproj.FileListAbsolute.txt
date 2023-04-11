@@ -1,0 +1,6 @@
+D:\22.11.5323\dosen\dosen\bin\Debug\dosen.exe.config
+D:\22.11.5323\dosen\dosen\obj\Debug\dosen.csprojResolveAssemblyReference.cache
+D:\22.11.5323\dosen\dosen\bin\Debug\dosen.exe
+D:\22.11.5323\dosen\dosen\bin\Debug\dosen.pdb
+D:\22.11.5323\dosen\dosen\obj\Debug\dosen.exe
+D:\22.11.5323\dosen\dosen\obj\Debug\dosen.pdb
